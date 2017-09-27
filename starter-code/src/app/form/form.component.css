@@ -1,0 +1,14 @@
+form {
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 10%;
+}
+
+.succes {
+  color: green;
+  font-size: 25px;
+}
+
+.error {
+  color: red;
+}
